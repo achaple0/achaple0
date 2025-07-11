@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-Hi there! 
 I’m Angel, a cloud professional and developer based in the US.
 
 I love working with cloud tools to design, implement, and improve IT infrastructure, as well as using code to build fun and cool things on my own.
