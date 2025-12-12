@@ -9,4 +9,4 @@ Fun Facts:
 I am obsessed with coffee. <br>
 One Piece is my favorite anime.
 
-My main collaboration is for the RBACharlotte askRenewal web-app. Follow this link to see the repo: [askRenewal](https://github.com/rbacharlotte/askRenewal)
+Here is is what I'm currently working on with Renewal by Andersen of the Carolina's | Follow this link to see the repo: [askRenewal](https://github.com/rbacharlotte/askRenewal)
